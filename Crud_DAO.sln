@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud_DAO", "Crud_DAO.csproj", "{74EE9DF8-8C48-4C83-9C72-DD690386DC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74EE9DF8-8C48-4C83-9C72-DD690386DC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EE9DF8-8C48-4C83-9C72-DD690386DC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EE9DF8-8C48-4C83-9C72-DD690386DC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EE9DF8-8C48-4C83-9C72-DD690386DC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4CDAC90-F300-41BE-AB6D-79A4D13469E1}
+	EndGlobalSection
+EndGlobal
